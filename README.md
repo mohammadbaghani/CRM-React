@@ -6,7 +6,6 @@ https://baghani-crm.liara.run
 <br>
 </br>
 CRM Software project with React JS
-<br>
-</br>
+
 ![alt text](https://github.com/mohammadbaghani/Shopy-NextJS/blob/main/Screenshot_2025_01_08-5.png)
 ![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/Screenshot_2025_01_08-11.png)
