@@ -11,4 +11,4 @@ CRM Software project with React JS
 Demo Link : https://baghani-crm.liara.run
 <br>
 </br>
-![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/Screenshot_2025_01_08-11.png)
+![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/My%20project%20Image.png)
