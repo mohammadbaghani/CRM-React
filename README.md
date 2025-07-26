@@ -1,11 +1,11 @@
 نرم افزار مدیریت ارتباط با مشتری crm با ری اکت زدم
 
-لینک لایو پروژه :
+لینک پروژه :
 https://baghani-crm.liara.run
 
 <br>
 </br>
-CRM Software project with React JS
+CRM Software with React JS
 <br>
 </br>
 Demo Link : https://baghani-crm.liara.run
