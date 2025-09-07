@@ -11,7 +11,7 @@ https://baghani-crm.liara.run
 <br>
 </br>
 
-![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/My.png)
+![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/public/My.png)
 
 
 
