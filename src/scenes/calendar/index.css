@@ -1,0 +1,52 @@
+.css-12nl70a {
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: left;
+  padding: 8px 16px;
+  background-color: #a7884e!important;
+  margin: 10px 0px;
+  border-radius: 2px;
+  font-family: 'IRY'!important;
+}
+
+.css-n8dm29-MuiListItem-root {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 38%;
+  box-sizing: border-box;
+  text-align: left;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: #22243b!important;
+  margin: -60px 0px 0px 8px !important;
+  border-radius: 5px;top: 100px !important;
+  height: 80px;
+}
+.css-47iiw-MuiTypography-root{
+  font-size: 12px!important;
+  color: #cfbf93!important;
+  font-family: 'IRY'!important;
+
+}

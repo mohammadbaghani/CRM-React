@@ -1,0 +1,334 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+@font-face {
+  font-family: 'dana-bold';
+  src: url(./fonts/reg.woff2) format('woff2'),
+      url(./fonts/reg.woff) format('woff'),
+      url(./fonts/reg.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Kalame-bold';
+  src: url(./fonts/KalamehWeb-Bold.woff) format('woff'),
+      url(./fonts/KalamehWeb-Bold.ttf) format('truetype'),
+      url(./fonts/KalamehWeb-Bold.woff2) format('woff2');
+
+}
+
+
+@font-face {
+  font-family: 'LuckiestGuy';
+  src: url(./fonts/LuckiestGuy.woff) format('woff'),
+      url(./fonts/LuckiestGuy.otf) format('truetype'),
+      url(./fonts/LuckiestGuy.woff2) format('woff2');
+
+}
+
+
+
+
+@font-face {
+  font-family: 'dana';
+  src: url(./fonts/DanaFaNum-Medium.woff) format('woff'),
+      url(./fonts/DanaFaNum-Medium.ttf) format('truetype'),
+      url(./fonts/DanaFaNum-Medium.woff2) format('woff2'),
+
+}
+
+
+
+@font-face {
+  font-family: 'IRY';
+  src: url(./fonts/IRY.woff2) format('woff2'),
+      url(./fonts/IRY.woff) format('woff'),
+      url(./fonts/IRY.ttf) format('truetype'),
+
+}
+
+@font-face {
+  font-family: 'Peyda';
+  src: url(./fonts/Peyda-Black.woff2) format('woff2'),
+      url(./fonts/Peyda-Black.woff) format('woff'),
+      url(./fonts/IRY.ttf) format('truetype'),
+
+}
+
+html,
+body,
+#root,
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.side-bar{
+  right: 0px;
+  position: relative;
+}
+.app {
+  display: flex;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+*{
+  font-family: 'IRY';
+}
+.ee{
+  font-size: 17px!important;
+  font-family: 'IRY'!important;
+}
+
+.css-17w9904-MuiTypography-root{
+  font-size: 13px!important;
+  font-family: 'IRY'!important;
+}
+.css-1ph60q2-MuiTypography-root{
+  color: rgb(221, 172, 12)!important;   font-family: 'IRY'!important;
+  
+}
+.linkto{
+ 
+  color: inherit!important;   font-family: 'IRY'!important;
+}
+.css-1kt8ah5-MuiDataGrid-root .MuiDataGrid-columnHeaderTitleContainer{
+  justify-content:center!important;padding-right: 20px!important;z-index:444333333!important;
+}
+.css-1kt8ah5-MuiDataGrid-root .MuiDataGrid-columnHeaderTitleContainer:hover{
+  justify-content:center!important;padding-right: 20px!important;
+}
+.css-1kt8ah5-MuiDataGrid-root .MuiDataGrid-row:not(.MuiDataGrid-row--dynamicHeight)>.MuiDataGrid-cell{
+  justify-content:center!important;padding-right: 20px!important;
+}
+
+.css-1xn3edc {
+  margin-bottom: 30px;
+  display: flex;padding-right: 10px!important;
+  justify-content: flex-end;
+}
+.customer{
+  display: flex;justify-content: flex-end;align-items: flex-end;
+flex-direction: column;padding-right: 20px;padding-top: 20px;
+}
+.form-child{ 
+    width: 80%;
+    position: absolute;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    display: flex;
+    top: 80px;
+    right: 0px;
+    left: 0px;
+}
+.below{
+  top: 350px;
+}
+.all-todos{
+  position: absolute;
+}
+.MuiButton-contained {position: absolute!important;top: 210px!important;
+  color: rgb(255 255 255 / 87%)!important;width: 170px!important;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  background-color: #1175b9!important;right: 0px!important;left: 0px!important;margin-right: auto!important;margin-left: auto!important;
+}
+.css-havevq-MuiSvgIcon-root
+{
+  cursor: pointer!important;
+}
+
+.fc-direction-ltr .fc-daygrid-event.fc-event-end, .fc-direction-rtl .fc-daygrid-event.fc-event-start {
+  margin-right: 2px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5px;
+}
+.css-uv7eon-MuiTypography-root{
+  font-size: 18px!important;letter-spacing: 1px !important;
+  font-family: 'IRY'!important;
+}
+.aa{margin-top: 15px!important;
+  font-size: 12px!important;
+  color: #cfbf93!important;
+  font-family: 'IRY'!important;
+}
+
+
+.css-h4y409-MuiList-root {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  height: 400px;
+  display: flex;
+  justify-content: center;align-items: center;
+  background-color: #d8e5e7;
+}
+
+.vvv{
+  position: absolute!important;top: -65px!important;right:unset!important;left:unset!important;
+  color: rgb(255 255 255 / 87%)!important;width: 160px!important;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  background-color: #0c4999!important;
+}
+
+.btn{
+background-color: transparent;color: transparent;border: none;
+}
+
+.user-input{width:200px!important;
+  justify-content: flex-end!important;height: 30px!important;background-color: transparent!important;border: 1px solid rgb(139, 139, 139)!important;
+  margin-top: 7px!important;
+}
+.user-input::-webkit-input-placeholder {padding-right: 10px!important;
+  color: rgb(143, 143, 143);  justify-content: flex-start!important;display: flex!important;text-align: right!important;
+}
+.css-11xf66s-MuiTypography-root{  font-size: 12px!important;font-family: 'IRY'!important;
+
+}
+
+.css-uv7eon-MuiTypography-root{
+  font-size: 18px!important;letter-spacing: 1px !important;
+  font-family: 'IRY'!important;
+}
+.aa{margin-top: 15px!important;
+  font-size: 12px!important;
+  color: #cfbf93!important;
+  font-family: 'IRY'!important;
+}
+
+
+.css-h4y409-MuiList-root {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  height: 400px;
+  display: flex;
+  justify-content: center;align-items: center;
+  background-color: #d8e5e7;
+}
+
+
+
+.css-h4y409-MuiList-root {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 8px;
+    display: flex;
+    background-color: transparent;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.css-1syk6cr-MuiTypography-root {
+  margin: 0;
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.334;
+  justify-self: flex-start;
+  display: flex;
+  position: absolute;
+
+  text-align: right;
+  justify-self: flex-start;
+  display: block;
+
+}
+
+.css-11xf66s-MuiTypography-root{
+  font-size: 12px!important;
+  color: #cfbf93!important;
+  font-family: 'IRY'!important;
+
+}
+
+.css-1vxvp5a-MuiPaper-root-MuiDrawer-paper {
+  background-color: #ffffff!important;
+  color: #fff;
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-shadow: 0px 8px 10px -5px rgba(0, 0, 0, 0.2), 0px 16px 24px 2px rgba(0, 0, 0, 0.14), 0px 6px 30px 5px rgba(0, 0, 0, 0.12);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15));
+  overflow-y: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  z-index: 1200;
+  -webkit-overflow-scrolling: touch;
+  position: fixed;
+  top: 0;
+  outline: 0;
+  right: 0;
+}
+
+.Tadbir-image{    cursor: pointer;
+  border-radius: 50%;
+  padding: 2px;
+  border: 2px solid #c6d7ee;
+ position: relative;top: -3px;
+  transform: scale(.9) skew(1deg) rotate(0deg);
+}
+
+.css-4jm9ba {
+  margin: 0px;
+  font-size: 16px;
+  font-weight: 400!important;
+  line-height: 1.334;
+  color: rgb(112, 216, 189);
+  font-family: 'IRY'!important;
+  top: 12px;
+  position: relative;
+}
+
+.css-j5a1ma {
+  margin: 0px;
+  font-family: 'IRY'!important;
+  font-weight: 400;
+  font-size: 14px!important;
+  line-height: 1.5;
+}
+.css-lqhqw8 {
+  font-family: 'IRY'!important;
+  font-size: 14px!important;
+  font-weight: 500!important;
+  line-height: 1.6;
+  color: rgb(163, 163, 163);
+  margin: 15px 0px 5px 20px;
+}
