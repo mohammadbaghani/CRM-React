@@ -121,14 +121,9 @@ const List = () => {
       person.phone = 0
     }
   }
-
-
   const remove = xx => {
     setNe(ne.filter(x => x.id != xx))
   }
-
-
-
   return (
     <Box m="20px">
       <Header title="" subtitle="کالاهای موجود در انبار" />
