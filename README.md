@@ -3,7 +3,7 @@ CRM Software with React JS
 </br>
 Demo Link : https://baghani-crm.liara.run
 
-نرم افزار crm با ری اکت
+نرم افزار crm با ری اکت زدم
 
 لینک پروژه :
 https://baghani-crm.liara.run
